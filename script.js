@@ -1,8 +1,13 @@
 
 //console log text, expression 
-
+console.log("hello world")
+console.log(9+7)
 // Create a variable to hold your name as a string
-
+let myName = "Kwame"
+console.log(myName)
+const myName = "Good morning"
+let Skibidi = "Toilet"
+Skibidi = "Toilet"  //reassign value of Skibidi
 //Concatenate your name variable into a message and log it to the console.
 //Example: “Hello, Zach!” 
 
